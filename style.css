@@ -15,3 +15,16 @@
     border: 0;
     border-radius: 5px;
 }
+
+
+/*banner*/
+ #banner{
+     padding: 7% 0;
+ }
+
+ .register{
+     color: #fff;
+     background-color: #43A046;
+     border: 0;
+     border-radius: 5px;
+ }
